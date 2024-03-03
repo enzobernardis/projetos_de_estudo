@@ -1,0 +1,16 @@
+C:\Users\Marcio\source\repos\gerenciador_de_tarefas\bin\Debug\net5.0\gerenciador_de_tarefas.exe
+C:\Users\Marcio\source\repos\gerenciador_de_tarefas\bin\Debug\net5.0\gerenciador_de_tarefas.deps.json
+C:\Users\Marcio\source\repos\gerenciador_de_tarefas\bin\Debug\net5.0\gerenciador_de_tarefas.runtimeconfig.json
+C:\Users\Marcio\source\repos\gerenciador_de_tarefas\bin\Debug\net5.0\gerenciador_de_tarefas.runtimeconfig.dev.json
+C:\Users\Marcio\source\repos\gerenciador_de_tarefas\bin\Debug\net5.0\gerenciador_de_tarefas.dll
+C:\Users\Marcio\source\repos\gerenciador_de_tarefas\bin\Debug\net5.0\ref\gerenciador_de_tarefas.dll
+C:\Users\Marcio\source\repos\gerenciador_de_tarefas\bin\Debug\net5.0\gerenciador_de_tarefas.pdb
+C:\Users\Marcio\source\repos\gerenciador_de_tarefas\obj\Debug\net5.0\gerenciador_de_tarefas.csproj.AssemblyReference.cache
+C:\Users\Marcio\source\repos\gerenciador_de_tarefas\obj\Debug\net5.0\gerenciador_de_tarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcio\source\repos\gerenciador_de_tarefas\obj\Debug\net5.0\gerenciador_de_tarefas.AssemblyInfoInputs.cache
+C:\Users\Marcio\source\repos\gerenciador_de_tarefas\obj\Debug\net5.0\gerenciador_de_tarefas.AssemblyInfo.cs
+C:\Users\Marcio\source\repos\gerenciador_de_tarefas\obj\Debug\net5.0\gerenciador_de_tarefas.csproj.CoreCompileInputs.cache
+C:\Users\Marcio\source\repos\gerenciador_de_tarefas\obj\Debug\net5.0\gerenciador_de_tarefas.dll
+C:\Users\Marcio\source\repos\gerenciador_de_tarefas\obj\Debug\net5.0\ref\gerenciador_de_tarefas.dll
+C:\Users\Marcio\source\repos\gerenciador_de_tarefas\obj\Debug\net5.0\gerenciador_de_tarefas.pdb
+C:\Users\Marcio\source\repos\gerenciador_de_tarefas\obj\Debug\net5.0\gerenciador_de_tarefas.genruntimeconfig.cache
